@@ -69,7 +69,7 @@
 ---
 
 ### 🔴 Offline LMS – Ethnic/Border Areas
-![Community](https://img.shields.io/badge/COMMUNITY-IMPACT-c0392b?style=flat-square) &nbsp; `2025` &nbsp;|&nbsp; ![UNDP](https://img.shields.io/badge/UNDP-Supported-009edb?style=flat-square)
+![Community](https://img.shields.io/badge/COMMUNITY-IMPACT-c0392b?style=flat-square) &nbsp;|&nbsp; ![UNDP](https://img.shields.io/badge/UNDP-Supported-009edb?style=flat-square) &nbsp; `2025`
 
 **Role:** Technical Expert &nbsp;|&nbsp; **Tech:** `Offline LMS` `Local Network Setup` `Hardware Configuration`
 
@@ -105,7 +105,7 @@
 
 | Platform & Development | AI & Emerging Tech | Infrastructure & Cloud | Leadership |
 |---|---|---|---|
-| Java, Angular, React, WordPress | ChatGPT, Claude (EdTech) | AWS EC2 | Cross-functional Team Leadership |
+| Java, Python, Angular, React, WordPress | ChatGPT, Claude (EdTech) | AWS EC2 | Cross-functional Team Leadership |
 | REST APIs | Python | MySQL Database Administration | NGO/CSO & International Donor Collaboration |
 | Moodle LMS (Infra, App Mgmt, Teaching) | Mobile Learning App Support | Linux Server Administration | Myanmar (Native) & English |
 | Offline LMS Deployment | | Docker, Client-Server Architecture | |
