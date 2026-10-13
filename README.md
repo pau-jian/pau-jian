@@ -1,12 +1,12 @@
 <div align="center">
 
-# JIAN
+# Pau Suan Mung
 ### EdTech Solutions Manager &nbsp;|&nbsp; E-Learning Programs & Platform Development
 
 *Nearly 20 years as a university educator and 10+ years as a volunteer-driven EdTech professional at the intersection of technology and education in Myanmar. All work reflects a pro-bono commitment to building a skilled, digitally empowered workforce across the region.*
 
-[![Email](https://img.shields.io/badge/Email-jianguolian794%40gmail.com-c0392b?style=flat-square&logo=gmail&logoColor=white)](mailto:jianguolian794@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B66%2064%20154%204446-2980b9?style=flat-square&logo=whatsapp&logoColor=white)](tel:+66641544446)
+[![Email](https://img.shields.io/badge/Email-psmung2025%40gmail.com-c0392b?style=flat-square&logo=gmail&logoColor=white)](mailto:psmung2025@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B66%2064%20154%204446-2980b9?style=flat-square&logo=whatsapp&logoColor=white)](tel:+66824068126)
 [![GitHub](https://img.shields.io/badge/GitHub-pau--jian-1a1410?style=flat-square&logo=github&logoColor=white)](https://github.com/pau-jian)
 
 </div>
